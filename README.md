@@ -2,7 +2,11 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/kornrunner/kornrunner/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/kornrunner/kornrunner/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kornrunner&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=kornrunner&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="margin-top: 20px;"/>
+  </a>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=kornrunner)
 
